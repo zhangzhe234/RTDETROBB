@@ -1,4 +1,4 @@
 # RTDETROBB
 OBB
-RT-DERT OBB实现遥感旋转框检测 +V 13069177991
+RT-DERT OBB实现遥感旋转框检测 +V 13069177991        detect-attention：cv注意力机制
 
